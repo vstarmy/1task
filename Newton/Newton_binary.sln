@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Newton", "Newton_binary\Newton.csproj", "{02036192-9943-43FD-B78B-4C2680552333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary1", "Binary\Binary1.csproj", "{B4D7F7B0-CDA7-48E2-8DD5-C333FA53386D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary2", "Binary2\Binary2.csproj", "{C9C5AFF0-B39F-499B-9EF6-17B3FEE11A37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02036192-9943-43FD-B78B-4C2680552333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02036192-9943-43FD-B78B-4C2680552333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02036192-9943-43FD-B78B-4C2680552333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02036192-9943-43FD-B78B-4C2680552333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D7F7B0-CDA7-48E2-8DD5-C333FA53386D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D7F7B0-CDA7-48E2-8DD5-C333FA53386D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D7F7B0-CDA7-48E2-8DD5-C333FA53386D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D7F7B0-CDA7-48E2-8DD5-C333FA53386D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C5AFF0-B39F-499B-9EF6-17B3FEE11A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C5AFF0-B39F-499B-9EF6-17B3FEE11A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C5AFF0-B39F-499B-9EF6-17B3FEE11A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C5AFF0-B39F-499B-9EF6-17B3FEE11A37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F16F3D43-A68A-4574-9CC7-0DF1DA45CF9F}
+	EndGlobalSection
+EndGlobal
